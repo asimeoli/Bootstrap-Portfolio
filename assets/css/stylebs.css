@@ -8,7 +8,12 @@ body {
 
 /* general */
 
+.iceland {
+  float: left;
+}
+
 .container {
+  clear: both;
   width: 100%;
   max-width: 960px;
   margin: 0 auto;
